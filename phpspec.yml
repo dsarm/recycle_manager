@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Recycle
+        psr4_prefix: Recycle
+        src_path: app

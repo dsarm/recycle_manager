@@ -1,0 +1,46 @@
+
+.alert {
+	position: absolute;
+    width: 100%;
+    z-index: 1;
+}
+
+#sb-admin-2 {
+    position: absolute;
+    bottom: 0px;
+    margin-left: 15px;
+}
+
+.panel-black {
+    border-color: black;
+}
+
+.panel-grey {
+    border-color: grey;
+}
+
+.panel-brown {
+    border-color: brown;
+}
+
+.panel-brown .panel-heading {
+    border-color: brown;
+    color: #fff;
+    background-color: brown;
+}
+
+.panel-grey .panel-heading {
+    border-color: grey;
+    color: #fff;
+    background-color: grey;
+}
+
+.panel-black .panel-heading {
+    border-color: black;
+    color: #fff;
+    background-color: black;
+}
+
+#index_page_header {
+    margin-top: 15px;
+}
