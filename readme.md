@@ -1,26 +1,26 @@
 ## Recycle Manager - Description:
 
-This aplication is a Recycle Manager. 
-It allows administrators to manage (create, read, update, remove) and show to non-authenticated users recycle points locations using a Google Map.
+This aplication is a Recycle Manager.  
+It allows administrators to manage (create, read, update, remove) and show to non-authenticated users recycle points locations using a Google Map.  
+   
 
+## Recycle Manager - Recycle location information:  
 
-## Recycle Manager - Recycle location information:
+Types (glass, plastic, paper, organic, etc);  
+Sizes;  
+Country, city and address;  
+Coordinates;  
+Name;  
+  
 
-Types (glass, plastic, paper, organic, etc);
-Sizes;
-Country, city and address;
-Coordinates;
-Name;
+## Recycle Manager - Functionalities:  
 
+Create, Edit and Remove Recycle points;  
+Show on a Google Map markers of the recycle points;  
+Recycle location markers information window with additional information.  
+  
 
-## Recycle Manager - Functionalities:
-
-Create, Edit and Remove Recycle points;
-Show on a Google Map markers of the recycle points;
-Recycle location markers information window with additional information.
-
-
-## Recycle Manager - Instalation and First use:
+## Recycle Manager - Instalation and First use:  
 
 1. git clone
 2. create database *recycle_manager*
